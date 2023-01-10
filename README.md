@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arshad-syed18&show_icons=true&locale=en" alt="arshad-syed18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=arshad-syed18&" alt="arshad-syed18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshad-syed18&" alt="arshad-syed18" /></p>
