@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad-syed18&label=Profile%20views&color=0e75b6&style=flat" alt="arshad-syed18" /> </p>
 
-- 🔭 I’m currently working on [eVoter - Elections ReImagined](https://github.com/arshad-syed18/eVoter)
+- 🔭 I’m currently working on [EasyMart](https://github.com/arshad-syed18/Ecommerse-App)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android, MERN, React**
 
